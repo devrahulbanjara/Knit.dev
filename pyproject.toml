@@ -1,0 +1,11 @@
+[project]
+name = "knit-dev"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain-groq>=1.0.0",
+    "langgraph>=1.0.0",
+]
